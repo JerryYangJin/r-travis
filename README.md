@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/craigcitro/r-travis.svg?branch=master,osx)](https://travis-ci.org/craigcitro/r-travis)
 
+Forked from eddelbuettel/r-travis
+
 # NATIVE R SUPPORT IN TRAVIS IS LIVE!
 
 We've finally merged support based on this repo into Travis-CI, so you can simply use `language: r` to test your R packages! 
